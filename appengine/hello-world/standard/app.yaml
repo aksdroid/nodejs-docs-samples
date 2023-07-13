@@ -12,6 +12,6 @@
 # limitations under the License.
 
 # [START gae_quickstart_yaml]
-service_account: infrastructure@hack-team-thetecharmy.iam.gserviceaccount.com
+service_account: workload@hack-team-thetecharmy.iam.gserviceaccount.com
 runtime: nodejs16
 # [END gae_quickstart_yaml]
